@@ -1,7 +1,7 @@
 # Sequential Median–MAD Diagnostic Corridor and Leakage-Free Forecast Evaluation for Kazakhstan's Seven-Sector Input–Output Flows
 
 Code, data and results accompanying the manuscript *“A Sequential Median–MAD Diagnostic Corridor for Short Sectoral
-Input–Output Flows with Leakage-Free Forecast Evaluation: Evidence from Kazakhstan”* (submitted to *Mathematics*, MDPI).
+Input–Output Flows with Leakage-Free Forecast Evaluation: Evidence from Kazakhstan”* (manuscript prepared for submission to *Mathematics*, MDPI).
 
 The repository reproduces every table and figure of the paper from the original OECD input–output matrices.
 
