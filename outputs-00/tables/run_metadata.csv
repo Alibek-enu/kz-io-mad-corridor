@@ -1,0 +1,50 @@
+﻿Parameter,Value
+Execution_timestamp_UTC,2026-11-22T14:06:23.326183+00:00
+Input_file,prepared_7sector_buy_sell_panel.xlsx
+Input_file_size_bytes,19144
+Dataset_SHA256,dfd4227b1879c7ebd0d78bfa31d6d192e5eabe5ecc9f8df1b72f1c208d061f4e
+Sheet,Panel_Long
+Observations,168
+Minimum_year,1995
+Maximum_year,2018
+Sectors,7
+Sector_order,AGR | MNG | MNF | SRV | CST | TRD | TRN
+Sector_mapping,AGR=Agriculture | MNG=Mining | MNF=Manufacturing | SRV=Services | CST=Construction | TRD=Trade | TRN=Transportation
+Series,14
+Fixed_candidate_models,10
+Fixed_model_order,Naive | Drift | Linear | Polynomial-2 | Exponential | Logarithmic | Power | ETS | Gaussian LWLR | Exponential LWLR
+Adaptive_selector,Adaptive rolling selector
+Pairwise_reference,Adaptive rolling selector
+ETS_definition,SES / Holt / damped Holt; SSE-estimated; fixed initial states; variant tuned by inner validation
+Temporal_protocol,9-8-7
+Initial_training_period,1995-2003
+Residual_calibration_period,2004-2011
+Dynamic_diagnostic_period,2012-2018
+Diagnostic_length,7
+Initial_training_years,9
+Inner_minimum_training_years,3
+Outer_forecasts_per_series,15
+Total_outer_forecasts,210
+Bandwidth_candidates,39
+Bandwidth_grid,0.5 | 0.75 | 1 | 1.25 | 1.5 | 1.75 | 2 | 2.25 | 2.5 | 2.75 | 3 | 3.25 | 3.5 | 3.75 | 4 | 4.25 | 4.5 | 4.75 | 5 | 5.25 | 5.5 | 5.75 | 6 | 6.25 | 6.5 | 6.75 | 7 | 7.25 | 7.5 | 7.75 | 8 | 8.25 | 8.5 | 8.75 | 9 | 9.25 | 9.5 | 9.75 | 10
+Unique_LWLR_local_fits,22932
+Unique_candidate_fits,25872
+Adaptive_inner_score,Honest prequential RMSE; tuned candidates re-tuned before each inner endpoint
+Comparison_metrics,RMSE | MASE | RMSSE
+Confirmatory_comparators,Naive | Drift | ETS
+KMeans_primary_period,Diagnostic period; scale = calibration-period median absolute error
+MAD_calibration_forecasts,8
+MAD_main_lambda,1.5
+MAD_lambda_grid,1.0 | 1.5 | 2.0 | 2.5 | 3.0
+MAD_consistency_constant,1.4826
+Random_seed,42
+Bootstrap_repetitions,5000
+KMeans_n_init,100
+KMeans_stability_repetitions,100
+Python_version,3.13.11
+NumPy_version,2.4.0
+pandas_version,3.0.1
+SciPy_version,1.17.1
+scikit_learn_version,1.9.0
+Matplotlib_version,3.10.8
+openpyxl_version,3.1.5

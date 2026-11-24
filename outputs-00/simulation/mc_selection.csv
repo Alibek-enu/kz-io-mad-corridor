@@ -1,0 +1,5 @@
+﻿Scenario,Selector,LWLR_share,Baseline_share
+shocks,Adaptive (honest),0.0436,0.6678666666666667
+shocks,Adaptive (optimistic),0.19546666666666668,0.5294666666666668
+smooth,Adaptive (honest),0.08466666666666667,0.5525333333333333
+smooth,Adaptive (optimistic),0.3566666666666667,0.37093333333333334

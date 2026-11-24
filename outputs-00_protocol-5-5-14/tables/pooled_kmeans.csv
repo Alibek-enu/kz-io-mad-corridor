@@ -1,0 +1,267 @@
+﻿Series,Year,Period,Absolute_Error,Error_Scale,Normalized_Absolute_Error,Error_Regime,Data_Driven_k2_Regime,Raw_Error_Regime
+AGR_Buy,2000,Calibration,0.16091999999999929,0.17920000000000036,0.8979910714235545,,,
+AGR_Buy,2001,Calibration,0.04473999999999978,0.17920000000000036,0.24966517857003362,,,
+AGR_Buy,2002,Calibration,0.27798571428571484,0.17920000000000036,1.5512595663178739,,,
+AGR_Buy,2003,Calibration,0.17920000000000036,0.17920000000000036,0.9999999999944196,,,
+AGR_Buy,2004,Calibration,0.5774999999999999,0.17920000000000036,3.2226562499820095,,,
+AGR_Buy,2005,Diagnostic,1.0310683333333324,0.17920000000000036,5.753729538658352,Medium-error regime,High-error regime,Low-error regime
+AGR_Buy,2006,Diagnostic,0.7225388432769662,0.17920000000000036,4.032024795049847,Low-error regime,Low-error regime,Low-error regime
+AGR_Buy,2007,Diagnostic,0.06143913303764492,0.17920000000000036,0.34285230489565816,Low-error regime,Low-error regime,Low-error regime
+AGR_Buy,2008,Diagnostic,0.5307137642766371,0.17920000000000036,2.961572345277201,Low-error regime,Low-error regime,Low-error regime
+AGR_Buy,2009,Diagnostic,2.936676697739999,0.17920000000000036,16.387704786404047,High-error regime,High-error regime,Medium-error regime
+AGR_Buy,2010,Diagnostic,1.8123999999999998,0.17920000000000036,10.113839285657825,High-error regime,High-error regime,Low-error regime
+AGR_Buy,2011,Diagnostic,0.6382403571428545,0.17920000000000036,3.5616091358219397,Low-error regime,Low-error regime,Low-error regime
+AGR_Buy,2012,Diagnostic,2.0079823529411716,0.17920000000000036,11.205258665903807,High-error regime,High-error regime,Low-error regime
+AGR_Buy,2013,Diagnostic,0.620298039215692,0.17920000000000036,3.461484593818244,Low-error regime,Low-error regime,Low-error regime
+AGR_Buy,2014,Diagnostic,2.1254885448916463,0.17920000000000036,11.86098518348092,High-error regime,High-error regime,Low-error regime
+AGR_Buy,2015,Diagnostic,2.972470946562507,0.17920000000000036,16.58744947849282,High-error regime,High-error regime,Medium-error regime
+AGR_Buy,2016,Diagnostic,0.6449000000000011,0.17920000000000036,3.598772321408488,Low-error regime,Low-error regime,Low-error regime
+AGR_Buy,2017,Diagnostic,0.6180000000000008,0.17920000000000036,3.4486607142664667,Low-error regime,Low-error regime,Low-error regime
+AGR_Buy,2018,Diagnostic,0.24650000000000016,0.17920000000000036,1.3755580357066077,Low-error regime,Low-error regime,Low-error regime
+AGR_Sell,2000,Calibration,0.20887500000000014,0.26970000000000005,0.7744716351472957,,,
+AGR_Sell,2001,Calibration,0.37389430860553907,0.26970000000000005,1.3863341068007144,,,
+AGR_Sell,2002,Calibration,0.022800000000000153,0.26970000000000005,0.08453837597299078,,,
+AGR_Sell,2003,Calibration,0.26970000000000005,0.26970000000000005,0.9999999999962923,,,
+AGR_Sell,2004,Calibration,0.8082000000000003,0.26970000000000005,2.9966629588320486,,,
+AGR_Sell,2005,Diagnostic,0.6226933333333311,0.26970000000000005,2.3088369793512133,Low-error regime,Low-error regime,Low-error regime
+AGR_Sell,2006,Diagnostic,0.38710508736369764,0.26970000000000005,1.4353173428337496,Low-error regime,Low-error regime,Low-error regime
+AGR_Sell,2007,Diagnostic,0.2880355210153116,0.26970000000000005,1.067984875840725,Low-error regime,Low-error regime,Low-error regime
+AGR_Sell,2008,Diagnostic,0.3865734118877562,0.26970000000000005,1.4333459840056462,Low-error regime,Low-error regime,Low-error regime
+AGR_Sell,2009,Diagnostic,2.699634790869724,0.26970000000000005,10.00976933948726,High-error regime,High-error regime,Medium-error regime
+AGR_Sell,2010,Diagnostic,2.0505544236220574,0.26970000000000005,7.603093895492971,Medium-error regime,High-error regime,Low-error regime
+AGR_Sell,2011,Diagnostic,0.17882666666666847,0.26970000000000005,0.6630577184501497,Low-error regime,Low-error regime,Low-error regime
+AGR_Sell,2012,Diagnostic,1.25725,0.26970000000000005,4.66166110491412,Medium-error regime,Low-error regime,Low-error regime
+AGR_Sell,2013,Diagnostic,0.09100588235294094,0.26970000000000005,0.3374337499169577,Low-error regime,Low-error regime,Low-error regime
+AGR_Sell,2014,Diagnostic,0.9314499999999999,0.26970000000000005,3.4536522061421806,Low-error regime,Low-error regime,Low-error regime
+AGR_Sell,2015,Diagnostic,1.0149,0.26970000000000005,3.7630700778503403,Low-error regime,Low-error regime,Low-error regime
+AGR_Sell,2016,Diagnostic,0.47129999999999983,0.26970000000000005,1.747497219125889,Low-error regime,Low-error regime,Low-error regime
+AGR_Sell,2017,Diagnostic,0.964700000000001,0.26970000000000005,3.576937337769462,Low-error regime,Low-error regime,Low-error regime
+AGR_Sell,2018,Diagnostic,0.5614999999999997,0.26970000000000005,2.081942899510262,Low-error regime,Low-error regime,Low-error regime
+MNG_Buy,2000,Calibration,2.039041534841303,1.3527149822071012,1.507369668895718,,,
+MNG_Buy,2001,Calibration,2.097900000000001,1.3527149822071012,1.5508810263751929,,,
+MNG_Buy,2002,Calibration,0.6136852175760978,1.3527149822071012,0.45366926931965385,,,
+MNG_Buy,2003,Calibration,0.4536123072760754,1.3527149822071012,0.33533472552778437,,,
+MNG_Buy,2004,Calibration,1.3527149822071012,1.3527149822071012,0.9999999999992607,,,
+MNG_Buy,2005,Diagnostic,0.41410000000000124,1.3527149822071012,0.3061250931988984,Low-error regime,Low-error regime,Low-error regime
+MNG_Buy,2006,Diagnostic,4.2852999999999986,1.3527149822071012,3.1679252883004954,Low-error regime,Low-error regime,Medium-error regime
+MNG_Buy,2007,Diagnostic,1.1791999999999998,1.3527149822071012,0.8717283503987923,Low-error regime,Low-error regime,Low-error regime
+MNG_Buy,2008,Diagnostic,0.19979999999999798,1.3527149822071012,0.14770295489287397,Low-error regime,Low-error regime,Low-error regime
+MNG_Buy,2009,Diagnostic,1.6782999999999966,1.3527149822071012,1.2406900360195814,Low-error regime,Low-error regime,Low-error regime
+MNG_Buy,2010,Diagnostic,1.2980928571428532,1.3527149822071012,0.959620374000674,Low-error regime,Low-error regime,Low-error regime
+MNG_Buy,2011,Diagnostic,3.7158999999999978,1.3527149822071012,2.7469940444766543,Low-error regime,Low-error regime,Medium-error regime
+MNG_Buy,2012,Diagnostic,2.4585999999999952,1.3527149822071012,1.817529954452567,Low-error regime,Low-error regime,Low-error regime
+MNG_Buy,2013,Diagnostic,1.0719999999999974,1.3527149822071012,0.7924803185443549,Low-error regime,Low-error regime,Low-error regime
+MNG_Buy,2014,Diagnostic,1.105800000000004,1.3527149822071012,0.8174671047074187,Low-error regime,Low-error regime,Low-error regime
+MNG_Buy,2015,Diagnostic,1.6038999999999985,1.3527149822071012,1.1856895362997133,Low-error regime,Low-error regime,Low-error regime
+MNG_Buy,2016,Diagnostic,1.328599999999999,1.3527149822071012,0.9821729022556265,Low-error regime,Low-error regime,Low-error regime
+MNG_Buy,2017,Diagnostic,4.6038,1.3527149822071012,3.4033776963754754,Low-error regime,Low-error regime,Medium-error regime
+MNG_Buy,2018,Diagnostic,4.2956,1.3527149822071012,3.1755396047939732,Low-error regime,Low-error regime,Medium-error regime
+MNG_Sell,2000,Calibration,0.7406749999999986,0.8626000000000005,0.858654069092441,,,
+MNG_Sell,2001,Calibration,1.361895841343511,0.8626000000000005,1.5788266187594846,,,
+MNG_Sell,2002,Calibration,0.1568000000000005,0.8626000000000005,0.18177602596779346,,,
+MNG_Sell,2003,Calibration,0.8626000000000005,0.8626000000000005,0.9999999999988407,,,
+MNG_Sell,2004,Calibration,2.8123999999999993,0.8626000000000005,3.2603756086213047,,,
+MNG_Sell,2005,Diagnostic,2.105089999999988,0.8626000000000005,2.4404011129116006,Low-error regime,Low-error regime,Low-error regime
+MNG_Sell,2006,Diagnostic,1.3847368717712776,0.8626000000000005,1.6053059028166838,Low-error regime,Low-error regime,Low-error regime
+MNG_Sell,2007,Diagnostic,1.7382731917059608,0.8626000000000005,2.0151555665475827,Low-error regime,Low-error regime,Low-error regime
+MNG_Sell,2008,Diagnostic,1.2277606979708686,0.8626000000000005,1.4233256410496693,Low-error regime,Low-error regime,Low-error regime
+MNG_Sell,2009,Diagnostic,7.657426452481449,0.8626000000000005,8.87714636270875,High-error regime,High-error regime,High-error regime
+MNG_Sell,2010,Diagnostic,0.1507071428571365,0.8626000000000005,0.17471266271384384,Low-error regime,Low-error regime,Low-error regime
+MNG_Sell,2011,Diagnostic,4.322039999999994,0.8626000000000005,5.01047994434846,Medium-error regime,Low-error regime,Medium-error regime
+MNG_Sell,2012,Diagnostic,2.6884874999999973,0.8626000000000005,3.1167255970286103,Low-error regime,Low-error regime,Medium-error regime
+MNG_Sell,2013,Diagnostic,2.4582411764705867,0.8626000000000005,2.8498042852628513,Low-error regime,Low-error regime,Low-error regime
+MNG_Sell,2014,Diagnostic,2.734072222222224,0.8626000000000005,3.169571321839848,Low-error regime,Low-error regime,Medium-error regime
+MNG_Sell,2015,Diagnostic,7.795473684210528,0.8626000000000005,9.03718256921109,High-error regime,High-error regime,High-error regime
+MNG_Sell,2016,Diagnostic,1.4268999999999998,0.8626000000000005,1.654185022024513,Low-error regime,Low-error regime,Low-error regime
+MNG_Sell,2017,Diagnostic,1.0900999999999996,0.8626000000000005,1.263737537675325,Low-error regime,Low-error regime,Low-error regime
+MNG_Sell,2018,Diagnostic,0.05159999999999876,0.8626000000000005,0.0598191514026651,Low-error regime,Low-error regime,Low-error regime
+MNF_Buy,2000,Calibration,0.5884826763771378,1.2870142857142959,0.45724642135582144,,,
+MNF_Buy,2001,Calibration,0.7818999999999985,1.2870142857142959,0.6075301639448661,,,
+MNF_Buy,2002,Calibration,1.2870142857142959,1.2870142857142959,0.999999999999223,,,
+MNF_Buy,2003,Calibration,1.534399999999997,1.2870142857142959,1.1922167586098,,,
+MNF_Buy,2004,Calibration,2.846783333333331,1.2870142857142959,2.2119283095223357,,,
+MNF_Buy,2005,Diagnostic,2.312268333333302,1.2870142857142959,1.7966143491936384,Low-error regime,Low-error regime,Low-error regime
+MNF_Buy,2006,Diagnostic,1.4097096969697223,1.2870142857142959,1.0953333716775604,Low-error regime,Low-error regime,Low-error regime
+MNF_Buy,2007,Diagnostic,1.4770377460350623,1.2870142857142959,1.1476467374362944,Low-error regime,Low-error regime,Low-error regime
+MNF_Buy,2008,Diagnostic,1.6167773355526123,1.2870142857142959,1.2562233018680449,Low-error regime,Low-error regime,Low-error regime
+MNF_Buy,2009,Diagnostic,10.071454473189029,1.2870142857142959,7.825441088706737,Medium-error regime,High-error regime,High-error regime
+MNF_Buy,2010,Diagnostic,8.612347912087952,1.2870142857142959,6.691726741246999,Medium-error regime,High-error regime,High-error regime
+MNF_Buy,2011,Diagnostic,2.1553266666666566,1.2870142857142959,1.6746719058124289,Low-error regime,Low-error regime,Low-error regime
+MNF_Buy,2012,Diagnostic,0.010281249999987807,1.2870142857142959,0.007988450566633533,Low-error regime,Low-error regime,Low-error regime
+MNF_Buy,2013,Diagnostic,0.30992352941174417,1.2870142857142959,0.24080815019041926,Low-error regime,Low-error regime,Low-error regime
+MNF_Buy,2014,Diagnostic,2.6522944444444363,1.2870142857142959,2.060811969130821,Low-error regime,Low-error regime,Medium-error regime
+MNF_Buy,2015,Diagnostic,6.723500000000001,1.2870142857142959,5.224106736517862,Medium-error regime,Low-error regime,Medium-error regime
+MNF_Buy,2016,Diagnostic,4.2896250000000045,1.2870142857142959,3.3330049616472746,Low-error regime,Low-error regime,Medium-error regime
+MNF_Buy,2017,Diagnostic,4.553700000000013,1.2870142857142959,3.5381891642866736,Low-error regime,Low-error regime,Medium-error regime
+MNF_Buy,2018,Diagnostic,0.44614090909091786,1.2870142857142959,0.34664798521872037,Low-error regime,Low-error regime,Low-error regime
+MNF_Sell,2000,Calibration,0.589575,0.8244999999999978,0.7150697392350351,,,
+MNF_Sell,2001,Calibration,1.0632065204807075,0.8244999999999978,1.2895167016123965,,,
+MNF_Sell,2002,Calibration,0.02030000000000065,0.8244999999999978,0.024620982413554985,,,
+MNF_Sell,2003,Calibration,0.8244999999999978,0.8244999999999978,0.9999999999987872,,,
+MNF_Sell,2004,Calibration,2.350100000000001,0.8244999999999978,2.8503335354725983,,,
+MNF_Sell,2005,Diagnostic,1.8518016666666615,0.8244999999999978,2.245969274304937,Low-error regime,Low-error regime,Low-error regime
+MNF_Sell,2006,Diagnostic,1.2864206633106878,0.8244999999999978,1.5602433757539491,Low-error regime,Low-error regime,Low-error regime
+MNF_Sell,2007,Diagnostic,0.7922820418031833,0.8244999999999978,0.9609242471828072,Low-error regime,Low-error regime,Low-error regime
+MNF_Sell,2008,Diagnostic,0.5641410644355069,0.8244999999999978,0.6842220308487862,Low-error regime,Low-error regime,Low-error regime
+MNF_Sell,2009,Diagnostic,7.379088112607455,0.8244999999999978,8.949773332442117,High-error regime,High-error regime,High-error regime
+MNF_Sell,2010,Diagnostic,0.6821071428571557,0.8244999999999978,0.8272979294800852,Low-error regime,Low-error regime,Low-error regime
+MNF_Sell,2011,Diagnostic,2.270833333333318,0.8244999999999978,2.754194461286319,Low-error regime,Low-error regime,Low-error regime
+MNF_Sell,2012,Diagnostic,0.5324937499999933,0.8244999999999978,0.6458383869003625,Low-error regime,Low-error regime,Low-error regime
+MNF_Sell,2013,Diagnostic,0.5452705882353008,0.8244999999999978,0.6613348553482608,Low-error regime,Low-error regime,Low-error regime
+MNF_Sell,2014,Diagnostic,4.3587777777777745,0.8244999999999978,5.286570985776228,Medium-error regime,Low-error regime,Medium-error regime
+MNF_Sell,2015,Diagnostic,4.7769684210526435,0.8244999999999978,5.793776132258172,Medium-error regime,High-error regime,Medium-error regime
+MNF_Sell,2016,Diagnostic,2.4618,0.8244999999999978,2.9858095815609715,Low-error regime,Low-error regime,Low-error regime
+MNF_Sell,2017,Diagnostic,6.175902072011954,0.8244999999999978,7.490481591272869,Medium-error regime,High-error regime,Medium-error regime
+MNF_Sell,2018,Diagnostic,2.4472999999999985,0.8244999999999978,2.968223165551288,Low-error regime,Low-error regime,Low-error regime
+SRV_Buy,2000,Calibration,1.624624999999999,1.624624999999999,0.9999999999993844,,,
+SRV_Buy,2001,Calibration,2.1258426018548864,1.624624999999999,1.3085127964013719,,,
+SRV_Buy,2002,Calibration,0.9421571428571527,1.624624999999999,0.5799228393361996,,,
+SRV_Buy,2003,Calibration,1.4644000000000021,1.624624999999999,0.9013772409011935,,,
+SRV_Buy,2004,Calibration,2.9947928571428655,1.624624999999999,1.843374844743263,,,
+SRV_Buy,2005,Diagnostic,3.2549716666666555,1.624624999999999,2.003521838371719,Low-error regime,Low-error regime,Medium-error regime
+SRV_Buy,2006,Diagnostic,3.3169211219394192,1.624624999999999,2.0416533796644636,Low-error regime,Low-error regime,Medium-error regime
+SRV_Buy,2007,Diagnostic,3.554414360631764,1.624624999999999,2.18783679964889,Low-error regime,Low-error regime,Medium-error regime
+SRV_Buy,2008,Diagnostic,1.4162835467655697,1.624624999999999,0.8717602811508494,Low-error regime,Low-error regime,Low-error regime
+SRV_Buy,2009,Diagnostic,16.643523683671667,1.624624999999999,10.244532543609406,High-error regime,High-error regime,High-error regime
+SRV_Buy,2010,Diagnostic,1.5384499999999903,1.624624999999999,0.9469569900740442,Low-error regime,Low-error regime,Low-error regime
+SRV_Buy,2011,Diagnostic,8.83671333333334,1.624624999999999,5.439232643427194,Medium-error regime,Low-error regime,High-error regime
+SRV_Buy,2012,Diagnostic,0.27301874999999143,1.624624999999999,0.16805031930434625,Low-error regime,Low-error regime,Low-error regime
+SRV_Buy,2013,Diagnostic,5.2311588235294195,1.624624999999999,3.219917718566563,Low-error regime,Low-error regime,Medium-error regime
+SRV_Buy,2014,Diagnostic,2.8724611111111216,1.624624999999999,1.76807639369661,Low-error regime,Low-error regime,Medium-error regime
+SRV_Buy,2015,Diagnostic,11.179078947368431,1.624624999999999,6.881021126328572,Medium-error regime,High-error regime,High-error regime
+SRV_Buy,2016,Diagnostic,10.684025000000002,1.624624999999999,6.576302223586016,Medium-error regime,High-error regime,High-error regime
+SRV_Buy,2017,Diagnostic,5.667400000000018,1.624624999999999,3.488435792873145,Low-error regime,Low-error regime,Medium-error regime
+SRV_Buy,2018,Diagnostic,9.152000000000001,1.624624999999999,5.633299992302453,Medium-error regime,High-error regime,High-error regime
+SRV_Sell,2000,Calibration,1.026324999999999,1.2466999999999988,0.8232333360063983,,,
+SRV_Sell,2001,Calibration,1.908764249816791,1.2466999999999988,1.5310533807774618,,,
+SRV_Sell,2002,Calibration,0.18429999999999858,1.2466999999999988,0.14783027191774356,,,
+SRV_Sell,2003,Calibration,1.2466999999999988,1.2466999999999988,0.9999999999991979,,,
+SRV_Sell,2004,Calibration,3.9916000000000107,1.2466999999999988,3.201732573992791,,,
+SRV_Sell,2005,Diagnostic,3.147041666666631,1.2466999999999988,2.5242974786749897,Low-error regime,Low-error regime,Medium-error regime
+SRV_Sell,2006,Diagnostic,1.91092847088278,1.2466999999999988,1.5327893405640884,Low-error regime,Low-error regime,Low-error regime
+SRV_Sell,2007,Diagnostic,2.324124652111209,1.2466999999999988,1.8642212658292667,Low-error regime,Low-error regime,Low-error regime
+SRV_Sell,2008,Diagnostic,1.9397306679549864,1.2466999999999988,1.5558920894789703,Low-error regime,Low-error regime,Low-error regime
+SRV_Sell,2009,Diagnostic,12.089154995200612,1.2466999999999988,9.696923875183225,High-error regime,High-error regime,High-error regime
+SRV_Sell,2010,Diagnostic,0.7284500000000023,1.2466999999999988,0.5843025587546472,Low-error regime,Low-error regime,Low-error regime
+SRV_Sell,2011,Diagnostic,5.49038666666668,1.2466999999999988,4.4039357236402354,Medium-error regime,Low-error regime,Medium-error regime
+SRV_Sell,2012,Diagnostic,7.73033749999999,1.2466999999999988,6.200639688773399,Medium-error regime,High-error regime,High-error regime
+SRV_Sell,2013,Diagnostic,9.655411764705875,1.2466999999999988,7.74477561939371,Medium-error regime,High-error regime,High-error regime
+SRV_Sell,2014,Diagnostic,12.805782267655601,1.2466999999999988,10.27174321620706,High-error regime,High-error regime,High-error regime
+SRV_Sell,2015,Diagnostic,8.922494736842125,1.2466999999999988,7.156889979012575,Medium-error regime,High-error regime,High-error regime
+SRV_Sell,2016,Diagnostic,15.071870000000011,1.2466999999999988,12.08941204779653,High-error regime,High-error regime,High-error regime
+SRV_Sell,2017,Diagnostic,8.551838095238125,1.2466999999999988,6.859579766769289,Medium-error regime,High-error regime,High-error regime
+SRV_Sell,2018,Diagnostic,5.283218181818171,1.2466999999999988,4.237762237758834,Medium-error regime,Low-error regime,Medium-error regime
+CST_Buy,2000,Calibration,0.2723,0.2723,0.9999999999963277,,,
+CST_Buy,2001,Calibration,0.11017123179212529,0.2723,0.40459504881278263,,,
+CST_Buy,2002,Calibration,0.3013884783840399,0.2723,1.1068251134151053,,,
+CST_Buy,2003,Calibration,0.10877569562952516,0.2723,0.39947005372429567,,,
+CST_Buy,2004,Calibration,0.8100641697928412,0.2723,2.974895959566164,,,
+CST_Buy,2005,Diagnostic,2.1239265731146393,0.2723,7.799950690807344,Medium-error regime,High-error regime,Low-error regime
+CST_Buy,2006,Diagnostic,1.61437,0.2723,5.928644876952155,Medium-error regime,High-error regime,Low-error regime
+CST_Buy,2007,Diagnostic,0.8605606060606057,0.2723,3.160340088349047,Low-error regime,Low-error regime,Low-error regime
+CST_Buy,2008,Diagnostic,2.8559153846153853,0.2723,10.488121133326837,High-error regime,High-error regime,Medium-error regime
+CST_Buy,2009,Diagnostic,1.9172956043956053,0.2723,7.041114962866561,Medium-error regime,High-error regime,Low-error regime
+CST_Buy,2010,Diagnostic,0.014766373626369678,0.2723,0.05422832767651653,Low-error regime,Low-error regime,Low-error regime
+CST_Buy,2011,Diagnostic,1.877145535714284,0.2723,6.893667042627215,Medium-error regime,High-error regime,Low-error regime
+CST_Buy,2012,Diagnostic,0.9329779411764694,0.2723,3.4262869672164644,Low-error regime,Low-error regime,Low-error regime
+CST_Buy,2013,Diagnostic,0.1234997549019532,0.2723,0.45354298531582693,Low-error regime,Low-error regime,Low-error regime
+CST_Buy,2014,Diagnostic,1.7255334365324977,0.2723,6.336883718421451,Medium-error regime,High-error regime,Low-error regime
+CST_Buy,2015,Diagnostic,6.015796578947277,0.2723,22.09253242352253,High-error regime,High-error regime,Medium-error regime
+CST_Buy,2016,Diagnostic,1.3257000000000003,0.2723,4.868527359512052,Medium-error regime,Low-error regime,Low-error regime
+CST_Buy,2017,Diagnostic,0.8554999999999993,0.2723,3.141755416808144,Low-error regime,Low-error regime,Low-error regime
+CST_Buy,2018,Diagnostic,2.049900000000001,0.2723,7.5280940139275545,Medium-error regime,High-error regime,Low-error regime
+CST_Sell,2000,Calibration,0.30915000000000004,0.3685999999999998,0.8387140531718977,,,
+CST_Sell,2001,Calibration,0.5610416754263006,0.3685999999999998,1.5220881047877883,,,
+CST_Sell,2002,Calibration,0.04870000000000019,0.3685999999999998,0.13212154096545875,,,
+CST_Sell,2003,Calibration,0.3685999999999998,0.3685999999999998,0.9999999999972871,,,
+CST_Sell,2004,Calibration,1.1864,0.3685999999999998,3.2186652197416765,,,
+CST_Sell,2005,Diagnostic,0.8860649999999932,0.3685999999999998,2.4038659793749044,Low-error regime,Low-error regime,Low-error regime
+CST_Sell,2006,Diagnostic,0.5637038225338467,0.3685999999999998,1.5293104246671667,Low-error regime,Low-error regime,Low-error regime
+CST_Sell,2007,Diagnostic,0.7083482793526006,0.3685999999999998,1.9217262055091677,Low-error regime,Low-error regime,Low-error regime
+CST_Sell,2008,Diagnostic,0.5793799842413137,0.3685999999999998,1.5718393495380958,Low-error regime,Low-error regime,Low-error regime
+CST_Sell,2009,Diagnostic,3.3882966357186914,0.3685999999999998,9.1923403030643,High-error regime,High-error regime,Medium-error regime
+CST_Sell,2010,Diagnostic,0.22346428571428412,0.3685999999999998,0.6062514533740586,Low-error regime,Low-error regime,Low-error regime
+CST_Sell,2011,Diagnostic,3.4080666666666666,0.3685999999999998,9.24597576412757,High-error regime,High-error regime,Medium-error regime
+CST_Sell,2012,Diagnostic,1.3754132352941255,0.3685999999999998,3.731452076208342,Low-error regime,Low-error regime,Low-error regime
+CST_Sell,2013,Diagnostic,2.043385539215695,0.3685999999999998,5.543639552930419,Medium-error regime,High-error regime,Low-error regime
+CST_Sell,2014,Diagnostic,1.4341277777777783,0.3685999999999998,3.890742750336105,Low-error regime,Low-error regime,Low-error regime
+CST_Sell,2015,Diagnostic,4.250952631578945,0.3685999999999998,11.532698403601234,High-error regime,High-error regime,Medium-error regime
+CST_Sell,2016,Diagnostic,2.877305,0.3685999999999998,7.806036353749851,Medium-error regime,High-error regime,Medium-error regime
+CST_Sell,2017,Diagnostic,2.5839999999999996,0.3685999999999998,7.0103092783314995,Medium-error regime,High-error regime,Medium-error regime
+CST_Sell,2018,Diagnostic,1.0642999999999994,0.3685999999999998,2.88741182853259,Low-error regime,Low-error regime,Low-error regime
+TRD_Buy,2000,Calibration,0.7041,0.7094,0.9925288976585952,,,
+TRD_Buy,2001,Calibration,1.0809099043512114,0.7094,1.5236959463626836,,,
+TRD_Buy,2002,Calibration,0.045399999999999885,0.7094,0.06399774457278812,,,
+TRD_Buy,2003,Calibration,0.7094,0.7094,0.9999999999985903,,,
+TRD_Buy,2004,Calibration,1.1663023809523834,0.7094,1.644068763674569,,,
+TRD_Buy,2005,Diagnostic,0.7495249999999949,0.7094,1.0565618832801498,Low-error regime,Low-error regime,Low-error regime
+TRD_Buy,2006,Diagnostic,2.8797648484848537,0.7094,4.059437339273744,Low-error regime,Low-error regime,Medium-error regime
+TRD_Buy,2007,Diagnostic,2.7521341217411397,0.7094,3.8795237126265296,Low-error regime,Low-error regime,Medium-error regime
+TRD_Buy,2008,Diagnostic,0.07892797202797475,0.7094,0.11126018047344725,Low-error regime,Low-error regime,Low-error regime
+TRD_Buy,2009,Diagnostic,5.17099505494506,0.7094,7.289251557566634,Medium-error regime,High-error regime,Medium-error regime
+TRD_Buy,2010,Diagnostic,2.1546642857142864,0.7094,3.0373051673403566,Low-error regime,Low-error regime,Low-error regime
+TRD_Buy,2011,Diagnostic,6.456120000000002,0.7094,9.100817592318721,High-error regime,High-error regime,Medium-error regime
+TRD_Buy,2012,Diagnostic,0.7766264705882655,0.7094,1.0947652531536096,Low-error regime,Low-error regime,Low-error regime
+TRD_Buy,2013,Diagnostic,5.169910784313725,0.7094,7.287723124198529,Medium-error regime,High-error regime,Medium-error regime
+TRD_Buy,2014,Diagnostic,7.697786274509827,0.7094,10.851122461938223,High-error regime,High-error regime,High-error regime
+TRD_Buy,2015,Diagnostic,3.1046000000000014,0.7094,4.376374400896004,Medium-error regime,Low-error regime,Medium-error regime
+TRD_Buy,2016,Diagnostic,4.716770000000002,0.7094,6.648956864946931,Medium-error regime,High-error regime,Medium-error regime
+TRD_Buy,2017,Diagnostic,3.2749000000000006,0.7094,4.616436425141505,Medium-error regime,Low-error regime,Medium-error regime
+TRD_Buy,2018,Diagnostic,1.3253999999999984,0.7094,1.8683394417791515,Low-error regime,Low-error regime,Low-error regime
+TRD_Sell,2000,Calibration,0.4644499999999998,0.5277000000000007,0.8801402311902957,,,
+TRD_Sell,2001,Calibration,0.8464297178937392,0.5277000000000007,1.603997949388164,,,
+TRD_Sell,2002,Calibration,0.0990000000000002,0.5277000000000007,0.18760659465569918,,,
+TRD_Sell,2003,Calibration,0.5277000000000007,0.5277000000000007,0.9999999999981051,,,
+TRD_Sell,2004,Calibration,1.7074999999999991,0.5277000000000007,3.2357400037838944,,,
+TRD_Sell,2005,Diagnostic,1.3178399999999932,0.5277000000000007,2.4973280272834835,Low-error regime,Low-error regime,Low-error regime
+TRD_Sell,2006,Diagnostic,0.7053101775915955,0.5277000000000007,1.336574147413792,Low-error regime,Low-error regime,Low-error regime
+TRD_Sell,2007,Diagnostic,0.9321352121112909,0.5277000000000007,1.7664112414430988,Low-error regime,Low-error regime,Low-error regime
+TRD_Sell,2008,Diagnostic,1.0256575998482678,0.5277000000000007,1.943637672628999,Low-error regime,Low-error regime,Low-error regime
+TRD_Sell,2009,Diagnostic,5.118122415140942,0.5277000000000007,9.698924417531241,High-error regime,High-error regime,Medium-error regime
+TRD_Sell,2010,Diagnostic,0.14461428571428847,0.5277000000000007,0.27404640082246395,Low-error regime,Low-error regime,Low-error regime
+TRD_Sell,2011,Diagnostic,0.6388266666666702,0.5277000000000007,1.2105868233190427,Low-error regime,Low-error regime,Low-error regime
+TRD_Sell,2012,Diagnostic,0.8001000000000023,0.5277000000000007,1.5162023877174247,Low-error regime,Low-error regime,Low-error regime
+TRD_Sell,2013,Diagnostic,0.678835294117647,0.5277000000000007,1.2864038167829441,Low-error regime,Low-error regime,Low-error regime
+TRD_Sell,2014,Diagnostic,2.0861222222222224,0.5277000000000007,3.9532352136029303,Low-error regime,Low-error regime,Low-error regime
+TRD_Sell,2015,Diagnostic,3.4940263157894744,0.5277000000000007,6.621236148915764,Medium-error regime,High-error regime,Medium-error regime
+TRD_Sell,2016,Diagnostic,1.5754000000000001,0.5277000000000007,2.9854083759655348,Low-error regime,Low-error regime,Low-error regime
+TRD_Sell,2017,Diagnostic,4.033997847101564,0.5277000000000007,7.644490898415604,Medium-error regime,High-error regime,Medium-error regime
+TRD_Sell,2018,Diagnostic,0.5653999999999986,0.5277000000000007,1.071442107255877,Low-error regime,Low-error regime,Low-error regime
+TRN_Buy,2000,Calibration,0.4305988850140099,0.4305988850140099,0.9999999999976777,,,
+TRN_Buy,2001,Calibration,0.7250944137637743,0.4305988850140099,1.6839207879939095,,,
+TRN_Buy,2002,Calibration,0.27178571428571674,0.4305988850140099,0.631180720024955,,,
+TRN_Buy,2003,Calibration,0.21150000000000002,0.4305988850140099,0.49117637634530226,,,
+TRN_Buy,2004,Calibration,1.3167000000000004,0.4305988850140099,3.057834206779478,,,
+TRN_Buy,2005,Diagnostic,1.5143216666666621,0.4305988850140099,3.5167802782719138,Low-error regime,Low-error regime,Low-error regime
+TRN_Buy,2006,Diagnostic,1.8024375757575797,0.4305988850140099,4.18588537611924,Medium-error regime,Low-error regime,Low-error regime
+TRN_Buy,2007,Diagnostic,0.8987038168073944,0.4305988850140099,2.087102052705193,Low-error regime,Low-error regime,Low-error regime
+TRN_Buy,2008,Diagnostic,0.5764744897202725,0.4305988850140099,1.3387737631976862,Low-error regime,Low-error regime,Low-error regime
+TRN_Buy,2009,Diagnostic,5.084761442580405,0.4305988850140099,11.808580141593167,High-error regime,High-error regime,Medium-error regime
+TRN_Buy,2010,Diagnostic,0.18939285714285958,0.4305988850140099,0.4398359209319776,Low-error regime,Low-error regime,Low-error regime
+TRN_Buy,2011,Diagnostic,1.7991666666666664,0.4305988850140099,4.17828919042359,Medium-error regime,Low-error regime,Low-error regime
+TRN_Buy,2012,Diagnostic,1.4979187499999949,0.4305988850140099,3.4786870150575986,Low-error regime,Low-error regime,Low-error regime
+TRN_Buy,2013,Diagnostic,2.365305882352944,0.4305988850140099,5.493060861665942,Medium-error regime,High-error regime,Low-error regime
+TRN_Buy,2014,Diagnostic,2.070299999999996,0.4305988850140099,4.8079548555445735,Medium-error regime,Low-error regime,Low-error regime
+TRN_Buy,2015,Diagnostic,3.204236842105267,0.4305988850140099,7.4413496031081765,Medium-error regime,High-error regime,Medium-error regime
+TRN_Buy,2016,Diagnostic,3.868425000000002,0.4305988850140099,8.983824934579559,High-error regime,High-error regime,Medium-error regime
+TRN_Buy,2017,Diagnostic,1.663000000000002,0.4305988850140099,3.8620629497032555,Low-error regime,Low-error regime,Low-error regime
+TRN_Buy,2018,Diagnostic,3.6767000000000003,0.4305988850140099,8.538572968835805,Medium-error regime,High-error regime,Medium-error regime
+TRN_Sell,2000,Calibration,0.25822500000000015,0.27420000000000067,0.9417396061234785,,,
+TRN_Sell,2001,Calibration,0.47127835659606854,0.27420000000000067,1.7187394478276758,,,
+TRN_Sell,2002,Calibration,0.0700000000000005,0.27420000000000067,0.2552881108670498,,,
+TRN_Sell,2003,Calibration,0.27420000000000067,0.27420000000000067,0.9999999999963531,,,
+TRN_Sell,2004,Calibration,0.9285999999999992,0.27420000000000067,3.3865791393020075,,,
+TRN_Sell,2005,Diagnostic,0.7132516666666633,0.27420000000000067,2.601209579372941,Low-error regime,Low-error regime,Low-error regime
+TRN_Sell,2006,Diagnostic,0.933221212121218,0.27420000000000067,3.403432575192605,Low-error regime,Low-error regime,Low-error regime
+TRN_Sell,2007,Diagnostic,0.5488110396632582,0.27420000000000067,2.001499050551624,Low-error regime,Low-error regime,Low-error regime
+TRN_Sell,2008,Diagnostic,0.5148609001538702,0.27420000000000067,1.8776838079941331,Low-error regime,Low-error regime,Low-error regime
+TRN_Sell,2009,Diagnostic,2.6637904786784716,0.27420000000000067,9.714771986392234,High-error regime,High-error regime,Medium-error regime
+TRN_Sell,2010,Diagnostic,0.08703571428571433,0.27420000000000067,0.3174169011137735,Low-error regime,Low-error regime,Low-error regime
+TRN_Sell,2011,Diagnostic,2.8073666666666632,0.27420000000000067,10.238390469206486,High-error regime,High-error regime,Medium-error regime
+TRN_Sell,2012,Diagnostic,0.24392647058824224,0.27420000000000067,0.8895932552419842,Low-error regime,Low-error regime,Low-error regime
+TRN_Sell,2013,Diagnostic,1.6284406862745158,0.27420000000000067,5.938879235115146,Medium-error regime,High-error regime,Low-error regime
+TRN_Sell,2014,Diagnostic,0.8583444444444446,0.27420000000000067,3.1303590242206862,Low-error regime,Low-error regime,Low-error regime
+TRN_Sell,2015,Diagnostic,1.8863684210526284,0.27420000000000067,6.87953472299688,Medium-error regime,High-error regime,Low-error regime
+TRN_Sell,2016,Diagnostic,2.0577499999999995,0.27420000000000067,7.504558716238112,Medium-error regime,High-error regime,Low-error regime
+TRN_Sell,2017,Diagnostic,1.3621999999999987,0.27420000000000067,4.9679066374727485,Medium-error regime,Low-error regime,Low-error regime
+TRN_Sell,2018,Diagnostic,0.9033000000000015,0.27420000000000067,3.2943107220886403,Low-error regime,Low-error regime,Low-error regime

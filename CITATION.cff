@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Sequential median–MAD diagnostic corridor and leakage-free forecast evaluation for Kazakhstan's seven-sector input–output flows: code and data"
+type: software
+license: MIT
+authors:
+  - family-names: Kerimkhulle
+    given-names: Seyit
+    affiliation: "L.N. Gumilyov Eurasian National University, Astana, Kazakhstan"
+  - family-names: Adalbek
+    given-names: Alibek
+    affiliation: "S. Seifullin Kazakh Agro Technical Research University, Astana, Kazakhstan"
+  - family-names: Alimova
+    given-names: Janar
+    affiliation: "Toraighyrov University, Pavlodar, Kazakhstan"
+repository-code: "https://github.com/Alibek-enu/kz-io-mad-corridor"
+keywords:
+  - short time series
+  - rolling-origin evaluation
+  - data leakage
+  - locally weighted linear regression
+  - MAD diagnostic corridor
+  - input–output tables
+  - Kazakhstan

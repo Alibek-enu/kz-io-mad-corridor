@@ -1,0 +1,9 @@
+﻿Parameter,Value
+Replications per scenario,500
+Series length,24
+Drift mu (log),0.08
+Innovation sigma (log),0.15
+Shock positions (index: size),1999: -0.25; 2009: -0.35; 2015: -0.25; 2016: -0.30; 2017: +0.20
+Protocol,9-8-7
+Bandwidth grid,0.50-10.00 (39)
+Seeds,20260 + 100000*scenario_index + replication

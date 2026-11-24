@@ -1,0 +1,18 @@
+﻿Parameter,Value
+Temporal protocol,9-8-7
+Initial training years,1995-2003 (N=9)
+Residual calibration years,2004-2011 (N=8)
+Dynamic diagnostic years,2012-2018 (N=7)
+Series,14
+Outer forecasts per series,15
+Total outer forecasts,210
+"Pooled diagnostic observations (MAD, K-means)",98
+Candidate fixed models,10
+Bandwidth candidates,39
+Bandwidth grid range,0.50-10.00
+Unique LWLR local fits (cached prequential design),22932
+Unique candidate fits (all models),25872
+Adaptive inner score,"Honest prequential RMSE, common inner window"
+Random seed,42
+Bootstrap repetitions,5000
+K-means n_init,100

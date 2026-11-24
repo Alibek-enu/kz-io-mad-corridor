@@ -1,0 +1,4 @@
+﻿Blocks,Metric,N_Blocks,Methods,Friedman_chi2,df,p_value,Kendalls_W
+Seven sectors; Buy and Sell averaged within sector,RMSE,7,11,66.41558441558442,10,2.170892630064284e-10,0.9487940630797774
+Seven sectors; Buy and Sell averaged within sector,MASE,7,11,59.09090909090912,10,5.383400622269428e-09,0.8441558441558445
+Seven sectors; Buy and Sell averaged within sector,RMSSE,7,11,59.844155844155864,10,3.878893020560206e-09,0.8549165120593695

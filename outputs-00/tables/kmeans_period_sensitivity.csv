@@ -1,0 +1,7 @@
+﻿Period,Scaling,k,N,Inertia,Silhouette
+Diagnostic,Within-series normalized,2,98,43.930821032713425,0.633783191346774
+Diagnostic,Within-series normalized,3,98,23.857219659315746,0.5531970426082885
+Diagnostic,Within-series normalized,4,98,12.79866092883678,0.5677301978446118
+Full rolling period (sensitivity),Within-series normalized,2,210,83.39396223411332,0.7052596803704165
+Full rolling period (sensitivity),Within-series normalized,3,210,47.164153445049116,0.5788564012070165
+Full rolling period (sensitivity),Within-series normalized,4,210,25.931475043956326,0.5380583421682312
